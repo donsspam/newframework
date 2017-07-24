@@ -1,0 +1,9 @@
+<?php
+require_once('baseclass.php');
+require_once('debug.php');
+require_once('defines.php');
+require_once('init.php');
+require_once('app.php');
+require_once('data.php');
+require_once('database.php');
+require_once('sql.php');
